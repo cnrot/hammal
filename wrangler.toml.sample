@@ -7,3 +7,6 @@ compatibility_date = "2024-06-08"
 kv_namespaces = [
 	 { binding = "HAMMAL_CACHE", id = "you kv id" }
 ]
+# Worker 智能部署位置
+[placement]
+mode = "smart"
